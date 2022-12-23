@@ -1,0 +1,349 @@
+#form .indicator1
+{
+	position: absolute;
+	top: 50px;
+	right: 20px;
+	width: 10px;
+	height:10px;
+	background: #555;
+	border-radius: 50%;
+}
+
+#form.invalid .indicator1
+{
+	background: #f00;
+	box-shadow: 0 0 5px #f00,
+				0 0 10px #f00,
+				0 0 20px #f00,
+				0 0 40px #f00;
+}
+
+#form.valid .indicator1
+{
+	background: #0f0;
+	box-shadow: 0 0 5px #0f0,
+				0 0 10px #0f0,
+				0 0 20px #0f0,
+				0 0 40px #0f0;
+}
+
+#form .indicator2
+{
+	position: absolute;
+	top: 50px;
+	right: 20px;
+	width: 10px;
+	height:10px;
+	background: #555;
+	border-radius: 50%;
+}
+
+#form.invalid1 .indicator2
+{
+	background: #f00;
+	box-shadow: 0 0 5px #f00,
+				0 0 10px #f00,
+				0 0 20px #f00,
+				0 0 40px #f00;
+}
+
+#form.valid1 .indicator2
+{
+	background: #0f0;
+	box-shadow: 0 0 5px #0f0,
+				0 0 10px #0f0,
+				0 0 20px #0f0,
+				0 0 40px #0f0;
+}
+
+#form .indicator3
+{
+	position: absolute;
+	top: 50px;
+	right: 20px;
+	width: 10px;
+	height:10px;
+	background: #555;
+	border-radius: 50%;
+}
+
+#form.invalid2 .indicator3
+{
+	background: #f00;
+	box-shadow: 0 0 5px #f00,
+				0 0 10px #f00,
+				0 0 20px #f00,
+				0 0 40px #f00;
+}
+
+#form.valid2 .indicator3
+{
+	background: #0f0;
+	box-shadow: 0 0 5px #0f0,
+				0 0 10px #0f0,
+				0 0 20px #0f0,
+				0 0 40px #0f0;
+}
+
+#form .indicator4
+{
+	position: absolute;
+	top: 50px;
+	right: 20px;
+	width: 10px;
+	height:10px;
+	background: #555;
+	border-radius: 50%;
+}
+
+#form.invalid3 .indicator4
+{
+	background: #f00;
+	box-shadow: 0 0 5px #f00,
+				0 0 10px #f00,
+				0 0 20px #f00,
+				0 0 40px #f00;
+}
+
+#form.valid3 .indicator4
+{
+	background: #0f0;
+	box-shadow: 0 0 5px #0f0,
+				0 0 10px #0f0,
+				0 0 20px #0f0,
+				0 0 40px #0f0;
+}
+
+#form .indicator5
+{
+	position: absolute;
+	top: 50px;
+	right: 20px;
+	width: 10px;
+	height:10px;
+	background: #555;
+	border-radius: 50%;
+}
+
+#form.invalid4 .indicator5
+{
+	background: #f00;
+	box-shadow: 0 0 5px #f00,
+				0 0 10px #f00,
+				0 0 20px #f00,
+				0 0 40px #f00;
+}
+
+#form.valid4 .indicator5
+{
+	background: #0f0;
+	box-shadow: 0 0 5px #0f0,
+				0 0 10px #0f0,
+				0 0 20px #0f0,
+				0 0 40px #0f0;
+}
+
+#form .indicator6
+{
+	position: absolute;
+	top: 50px;
+	right: 20px;
+	width: 10px;
+	height:10px;
+	background: #555;
+	border-radius: 50%;
+}
+
+#form.invalid5 .indicator6
+{
+	background: #f00;
+	box-shadow: 0 0 5px #f00,
+				0 0 10px #f00,
+				0 0 20px #f00,
+				0 0 40px #f00;
+}
+
+#form.valid5 .indicator6
+{
+	background: #0f0;
+	box-shadow: 0 0 5px #0f0,
+				0 0 10px #0f0,
+				0 0 20px #0f0,
+				0 0 40px #0f0;
+}
+/* #form .indicator7 */
+/* { */
+/* 	position: absolute; */
+/* 	top: 50px; */
+/* 	right: 20px; */
+/* 	width: 10px; */
+/* 	height:10px; */
+/* 	background: #555; */
+/* 	border-radius: 50%; */
+/* } */
+
+/* #form.invalid6 .indicator7 */
+/* { */
+/* 	background: #f00; */
+/* 	box-shadow: 0 0 5px #f00, */
+/* 				0 0 10px #f00, */
+/* 				0 0 20px #f00, */
+/* 				0 0 40px #f00; */
+/* } */
+
+/* #form.valid6 .indicator7 */
+/* { */
+/* 	background: #0f0; */
+/* 	box-shadow: 0 0 5px #0f0, */
+/* 				0 0 10px #0f0, */
+/* 				0 0 20px #0f0, */
+/* 				0 0 40px #0f0; */
+/* } */
+
+#form .indicator8
+{
+	position: absolute;
+	top: 50px;
+	right: 20px;
+	width: 10px;
+	height:10px;
+	background: #555;
+	border-radius: 50%;
+}
+
+#form.invalid6 .indicator8
+{
+	background: #f00;
+	box-shadow: 0 0 5px #f00,
+				0 0 10px #f00,
+				0 0 20px #f00,
+				0 0 40px #f00;
+}
+
+#form.valid6 .indicator8
+{
+	background: #0f0;
+	box-shadow: 0 0 5px #0f0,
+				0 0 10px #0f0,
+				0 0 20px #0f0,
+				0 0 40px #0f0;
+}
+
+#form .indicator9
+{
+	position: absolute;
+	top: 50px;
+	right: 20px;
+	width: 10px;
+	height:10px;
+	background: #555;
+	border-radius: 50%;
+}
+
+#form.invalid7 .indicator9
+{
+	background: #f00;
+	box-shadow: 0 0 5px #f00,
+				0 0 10px #f00,
+				0 0 20px #f00,
+				0 0 40px #f00;
+}
+
+#form.valid7 .indicator9
+{
+	background: #0f0;
+	box-shadow: 0 0 5px #0f0,
+				0 0 10px #0f0,
+				0 0 20px #0f0,
+				0 0 40px #0f0;
+}
+
+#form .indicator10
+{
+	position: absolute;
+	top: 50px;
+	right: 20px;
+	width: 10px;
+	height:10px;
+	background: #555;
+	border-radius: 50%;
+}
+
+#form.invalid8 .indicator10
+{
+	background: #f00;
+	box-shadow: 0 0 5px #f00,
+				0 0 10px #f00,
+				0 0 20px #f00,
+				0 0 40px #f00;
+}
+
+#form.valid8 .indicator10
+{
+	background: #0f0;
+	box-shadow: 0 0 5px #0f0,
+				0 0 10px #0f0,
+				0 0 20px #0f0,
+				0 0 40px #0f0;
+}
+#form .indicator11
+{
+	position: absolute;
+	top: 50px;
+	right: 20px;
+	width: 10px;
+	height:10px;
+	background: #555;
+	border-radius: 50%;
+}
+#form.invalid11 .indicator11
+{
+	background: #f00;
+	box-shadow: 0 0 5px #f00,
+				0 0 10px #f00,
+				0 0 20px #f00,
+				0 0 40px #f00;
+}
+
+#form.valid11 .indicator11
+{
+	background: #0f0;
+	box-shadow: 0 0 5px #0f0,
+				0 0 10px #0f0,
+				0 0 20px #0f0,
+				0 0 40px #0f0;
+}
+#form .indicator12
+{
+	position: absolute;
+	top: 50px;
+	right: 20px;
+	width: 10px;
+	height:10px;
+	background: #555;
+	border-radius: 50%;
+}
+#form.invalid12 .indicator12
+{
+	background: #f00;
+	box-shadow: 0 0 5px #f00,
+				0 0 10px #f00,
+				0 0 20px #f00,
+				0 0 40px #f00;
+}
+
+#form.valid12 .indicator12
+{
+	background: #0f0;
+	box-shadow: 0 0 5px #0f0,
+				0 0 10px #0f0,
+				0 0 20px #0f0,
+				0 0 40px #0f0;
+}
+
+
+
+.forget
+{
+	top: 30px;
+}
